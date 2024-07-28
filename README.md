@@ -12,7 +12,7 @@ This API serves as the backend for our E-Commerce Application, providing various
 
 ### Authentication
 
-- `**POST /api/v1/user/login**`: Log in with a username and password to obtain an access token.
+- **`POST /api/v1/user/login`**: Log in with a username and password to obtain an access token.
 - **POST /api/v1/user/signup**: Register a new user account.
 - **POST /api/v1/user/logout**: Log out a user.
 
